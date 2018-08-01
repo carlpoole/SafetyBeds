@@ -1,0 +1,5 @@
+name: SafetyBeds
+version: 1.0
+main: mike.metamorphic.SafetyBeds.Main
+author: MetamorphicMike
+description: Disables bed explosions in the nether
